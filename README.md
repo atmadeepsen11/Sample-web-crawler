@@ -1,11 +1,10 @@
 # Sample-web-crawler
 
-/* 
  * Author: Atmadeep Sen
  * Purpose: Personal project
  * Date: 11/25/2017
  * Programming language: Python
- */
+
 
 A simple web crawler than can parse through web pages and return the details of a particular type.
 To find information on the hundreds of millions of Web pages that exist, a search engine employs special software robots,
